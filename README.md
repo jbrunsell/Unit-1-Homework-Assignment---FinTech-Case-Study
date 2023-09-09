@@ -57,7 +57,7 @@ Overall, Wealthfront is competing well with the other startup Robo-Advisor firms
 | :---: | :----: |  :----: | :---: |
 | AUM | $21+Billion |  $4+Billion | $27+Billion |
 | Users | 307,000+ |  9,000+ | 615,000+ |
-### Legacy Firm Metrics [^2]
+### Legacy Firm Metrics [^6]
 | Metric | Vanguard | Schwab |
 | :---: | :----: |  :----: |
 | AUM | $206.6+Billion |  $65.8+Billion |
