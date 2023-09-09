@@ -40,7 +40,7 @@ Wealthfront is in the larger industry of investment advisory services and more s
 
 Robo-Advising has seen huge growth rates since inception with 2017-2023 user rate growing 5X per Statista.[^7] Statista is predicting a 14% CAGR for Robo-Advising over the period of 2023-2027. They also estimate $2.7 trillion AUM for the segment in 2023. That would place Wealthfront as only 1.3% of the segment's assets under management.
 
-Robo-advising has not substantially changed since being started in the early 2010's, but larger legacy financial advisory companies have begun to offer the service as they have lost customers to Robo-Advisory firms. The large full-service firms have generally elected to create their own services in lieu of acquiring firms. There is one exception: Personal Capital Advisors (~75% the size to Wealthfront) was purchased by Empower Retirement, which no longer advertises Robo-Advisory services. 
+Robo-advising has not substantially changed since being started in the early 2010's, but larger legacy financial advisory companies have begun to offer the service as they have lost customers to Robo-Advisory firms. The large full-service firms have generally elected to create their own services in lieu of acquiring firms. There is one exception: Personal Capital Advisors (~75% the size to Wealthfront) was purchased by Empower Retirement, which no longer advertises Robo-Advisory services.[^6] 
 
 Over time, the Robo-Advisor startup firms are beginning to look more like online brokers as they offer more cash account and individual stock trading services. 
 
@@ -83,17 +83,17 @@ I would recommend that Wealthfront take these strategic actions:
 
 ## Sources
 ### Wealthfront
-[^1]:[Wealthfront - Origin](https://www.wealthfront.com/origin)
+[Wealthfront - Origin](https://www.wealthfront.com/origin)
 
-[^2]:[Crunchbase - Wealthfront](https://www.crunchbase.com/organization/wealthfront)
+[Crunchbase - Wealthfront](https://www.crunchbase.com/organization/wealthfront)
 
-[^3]:[Investmentnews.com - UBS Merger terminates](https://www.investmentnews.com/ubs-and-wealthfront-terminate-acquisition-plans-226136)
+[Investmentnews.com - UBS Merger terminates](https://www.investmentnews.com/ubs-and-wealthfront-terminate-acquisition-plans-226136)
 
-[^5]:[TechCrunch - Name Change from kaChing to Wealthfront](https://techcrunch.com/2010/10/19/kaching-gets-100m-under-management-and-gets-all-wall-street-with-a-new-name/)
+[TechCrunch - Name Change from kaChing to Wealthfront](https://techcrunch.com/2010/10/19/kaching-gets-100m-under-management-and-gets-all-wall-street-with-a-new-name/)
 
 [Investopedia - Wealthfront Review](https://www.investopedia.com/wealthfront-review-4587933)
 
-[^4]:[Contrary Research - Wealthfront](https://research.contrary.com/reports/wealthfront)
+[Contrary Research - Wealthfront](https://research.contrary.com/reports/wealthfront)
 ### Competitors
 [M1 Website](https://m1.com/)
 
@@ -105,6 +105,20 @@ I would recommend that Wealthfront take these strategic actions:
 
 [Wikipedia - M1](https://en.wikipedia.org/wiki/M1_Finance)
 ### Business segment data
+[Statista - Robo-Advisors](https://www.statista.com/outlook/dmo/fintech/digital-investment/robo-advisors/worldwide)
+
+[Forbes - Robo-Advisors](https://www.forbes.com/advisor/investing/top-robo-advisors-by-aum/)
+
+[^1]:[Wealthfront - Origin](https://www.wealthfront.com/origin)
+
+[^2]:[Crunchbase - Wealthfront](https://www.crunchbase.com/organization/wealthfront)
+
+[^3]:[Investmentnews.com - UBS Merger terminates](https://www.investmentnews.com/ubs-and-wealthfront-terminate-acquisition-plans-226136)
+
+[^5]:[TechCrunch - Name Change from kaChing to Wealthfront](https://techcrunch.com/2010/10/19/kaching-gets-100m-under-management-and-gets-all-wall-street-with-a-new-name/)
+
+[^4]:[Contrary Research - Wealthfront](https://research.contrary.com/reports/wealthfront)
+
 [^7]:[Statista - Robo-Advisors](https://www.statista.com/outlook/dmo/fintech/digital-investment/robo-advisors/worldwide)
 
 [^6]:[Forbes - Robo-Advisors](https://www.forbes.com/advisor/investing/top-robo-advisors-by-aum/)
